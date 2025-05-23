@@ -9,6 +9,6 @@ Created on 2025/5/23 13:11
 
 from .yck import connect, to_pandas, to_polars
 
-__version__ = "v0.1.3"
+__version__ = "v0.1.5"
 
 __all__ = ["connect", "to_pandas", "to_polars"]

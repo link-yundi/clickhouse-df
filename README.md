@@ -3,7 +3,7 @@
 
 ### 安装
 ```shell
-pip install -U clickhouse_df
+pip install -U clickhouse-df
 ```
 
 ### 示例
